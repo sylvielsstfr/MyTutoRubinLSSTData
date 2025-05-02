@@ -26,3 +26,7 @@
 
 ## 07) Showing detected objects over Deep Coadds
 -  07_SearchForObjectsInDeepCoadds.ipynb
+
+
+## 09) DIA Objects
+- 09_SearchForDIAObjectsLightCurves.ipynb
