@@ -148,3 +148,8 @@ _html/
 
 # Project initialization script
 .initialize_new_project.sh
+
+# Data
+*.csv
+*.png
+*.pdf
