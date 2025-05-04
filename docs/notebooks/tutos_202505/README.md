@@ -2,7 +2,7 @@
 
 - author : Sylvie Dagoret-Campagne
 - creation date : 2025-05-02
-- last update : 2025-05-02
+- last update : 2025-05-04
 
 
 ## 01) Consolidated database
@@ -18,7 +18,9 @@
 - 04_LSSTComCamDeepCoaddsMosaicMatplotlib.ipynb
 - 04_LSSTComCamDeepCoaddsMosaicFirefly.ipynb
 
-## 05) Plotting Focal Plane for LSSTCam
+## 05) Objects and Sources 
+- 05a_SearchForSourcesAndObjectsVisits_WriteSources.ipynb
+- 05b_SearchForSourcesAndObjectsVisits_ReadSources.ipynb
 
 ## 06) Searching on DRP detected objects
 - 06_SearchForSourcesAndObjects.ipynb
@@ -30,3 +32,7 @@
 
 ## 09) DIA Objects
 - 09_SearchForDIAObjectsLightCurves.ipynb
+
+
+
+                            
